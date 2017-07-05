@@ -1,2 +1,1 @@
-# calendar-service
-Calendar API microservice 
+# cost-planner
